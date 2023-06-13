@@ -10,7 +10,6 @@ const Home = () => {
             <button className='play'>
                 <Link to="/game">플레이하기</Link>
             </button>
-            
         </>
     );
 }
